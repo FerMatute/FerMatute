@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/fernando-matute-98b735293/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://www.instagram.com/fer_matute30/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
     </h1>
@@ -18,10 +18,16 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a Robotics Engineer <img src="https://media2.giphy.com/media/6KGPoV1Z61IpDZyTeN/giphy.gif" width="50"> from Honduras.
 
-- :seedling: Exploring Technical Content Writing.
+- :satellite: I’m a Robotic and Digital Systems student at Tecnologico de Monterrey.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :seedling: Developing Electronic and Software projects.
+
+- :zap: In my free time, I work in a Rover for the URC (University Rover Challenge) developing the Software and Electronic areas.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Fernando-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-matute-98b735293/)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
