@@ -18,7 +18,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Robotics Engineer <img src="https://media2.giphy.com/media/6KGPoV1Z61IpDZyTeN/giphy.gif" width="50"> from Honduras.
+I am a Robotics Engineer <img src="https://media2.giphy.com/media/6KGPoV1Z61IpDZyTeN/giphy.gif" width="70"> from Honduras.
 
 - :satellite: I’m a Robotic and Digital Systems student at Tecnologico de Monterrey.
 
@@ -31,3 +31,10 @@ I am a Robotics Engineer <img src="https://media2.giphy.com/media/6KGPoV1Z61IpDZ
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
